@@ -12,11 +12,11 @@ Designed and stimulated CMOS NOR logic gate using LTspice.
 
 
 ## Circuit Schematic 
-![circuit](CMOS_NOR_circuit.png)
+![circuit](cmos_nor_circuit.png)
 
 
 ## Output Waveform
-![Waveform](CMOS_NOR_waveform.png)
+![Waveform](cmos_nor_waveform.png)
 
 
 ## Results
